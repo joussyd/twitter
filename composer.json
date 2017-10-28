@@ -1,8 +1,6 @@
 {
 	"name": "redscript/twitter",
     "autoload": {
-        "psr-4": {
-            "Redscript\\Twitter\\": "src/"
-        }
+         "psr-4": { "Redscript\\Twitter\\": "src/" }
     }
 }

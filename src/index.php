@@ -1,6 +1,6 @@
 <?php 
 
-namespace CMI\twitter;
+namespace Redscript\Twitter;
 
 class Index
 {
