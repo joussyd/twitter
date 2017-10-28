@@ -1,4 +1,5 @@
 {
+	"name": "redscript/twitter",
     "autoload": {
         "psr-4": {
             "Redscript\\Twitter\\": "src/"
